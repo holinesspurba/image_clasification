@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="main_theme">#04db97</color>
+    <color name="button_theme">#018786</color>
+
+        <!-- Warna untuk status daur ulang -->
+        <color name="recyclableColor">#4CAF50</color> <!-- Hijau -->
+        <color name="nonRecyclableColor">#F44336</color> <!-- Merah -->
+        <color name="maybeRecyclableColor">#FF9800</color> <!-- Oranye -->
+        <color name="notPlasticColor">#9E9E9E</color> <!-- Abu-abu -->
+        <color name="unknownColor">#BDBDBD</color> <!-- Abu-abu muda -->
+</resources>
